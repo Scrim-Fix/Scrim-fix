@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rashid Al-Ghamdi (Known as Scrim)
+# 👋 Hi, I'm Scrim
 
 I am a **Network Technician & Applied Computing Student** at King Abdulaziz University. I created the **Saudi Fix** project to provide efficient PC optimization and technical support solutions.
 
