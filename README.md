@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Rashid Alghamdi (Scrim) | IT & Networking Professional
 
-I am a **Network Technician & Applied Computing Student** at King Abdulaziz University. I created the **Saudi Fix** project to provide efficient PC optimization and technical support solutions.
-
+I am an IT & Networking Professional specializing in system infrastructure, automation, and tech support. I created the Saudi Fix project to provide efficient PC optimization and technical support solutions.
 ---
 
 ## 🛠️ Skills & Technologies
