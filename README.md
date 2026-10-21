@@ -35,14 +35,12 @@ Founder of **SaudiFix**, a computer repair and technical support initiative focu
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco">
 </p>
 
-### Projects
+### Tools & Projects
 
-| Project | Description | Stack |
+<a href="https://github.com/Scrim-Fix/Saudi-Fix-Cleaner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Scrim-Fix&repo=Saudi-Fix-Cleaner&hide_border=true&theme=github_dark" alt="Saudi Fix Cleaner">
+</a>
+
+| Tool | Purpose | Stack |
 | --- | --- | --- |
-| [**Saudi Fix Cleaner**](https://github.com/Scrim-Fix/Saudi-Fix-Cleaner) | Windows maintenance script for temporary-file cleanup and system optimization | Batch |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scrim-Fix&show_icons=true&hide_border=true&hide_title=true&theme=github_dark" alt="GitHub stats" height="150">
-</p>
+| [**Saudi Fix Cleaner**](https://github.com/Scrim-Fix/Saudi-Fix-Cleaner) | Removes temporary files, empties the Recycle Bin, flushes DNS cache | Batch · PowerShell |
