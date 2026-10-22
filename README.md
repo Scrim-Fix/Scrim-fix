@@ -6,7 +6,7 @@
 
 Jeddah, Saudi Arabia
 
-<a href="mailto:rahegj@gmail.com"><img src="https://img.shields.io/badge/Email-rahegj%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:rashid.alghamdi19@gmail.com"><img src="https://img.shields.io/badge/Email-rahegj%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Founder-SaudiFix-00BE64?style=flat-square" alt="SaudiFix">
 
 </div>
